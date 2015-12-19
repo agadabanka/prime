@@ -1,4 +1,4 @@
-tic-tac-go
+prime
 ==========
 
-backend for a game of tic-tac-toe written in go.
+prime number generation and prime factor examples
