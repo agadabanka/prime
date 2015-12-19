@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	dg "github.com/agadabanka/tic-tac-go/diagnostics"
+	dg "github.com/agadabanka/gotools/diagnostics"
 )
 
 type Factor struct {

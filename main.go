@@ -10,7 +10,7 @@ import (
 	"os"
 	"strconv"
 
-	ut "github.com/agadabanka/tic-tac-go/mathutil"
+	ut "github.com/agadabanka/gotools/mathutil"
 )
 
 type PrinterInput struct {
